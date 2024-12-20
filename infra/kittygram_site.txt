@@ -1,0 +1,7 @@
+IP: 84.201.162.104;
+name_taski: https://morsav.zapto.org/;
+login: Admin1;
+password: Morozov13;
+name_kittygram: https://kittygrambysavva.zapto.org/;
+login: savva;
+password: Morozov13;
